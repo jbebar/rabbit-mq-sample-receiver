@@ -11,4 +11,4 @@ required:
 
 example of manualAck and lagging consumer:
 
-`java -jar target/amqp-sender-jar-with-dependencies.jar autoAck=false processDurationSeconds=5`
+`java -jar target/amqp-receiver-jar-with-dependencies.jar autoAck=false processDurationSeconds=5`
